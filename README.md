@@ -1,1 +1,1 @@
-Live Demo - [https://worldmonitorgame.streamlit.app/]
+Live Demo - [click here](https://worldmonitorgame.streamlit.app/)
